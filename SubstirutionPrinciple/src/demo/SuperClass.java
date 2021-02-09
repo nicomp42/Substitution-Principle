@@ -1,3 +1,10 @@
+/*
+ * Substitution Principle
+ * A derived class object can be assigned to a base class object
+ * This is the base class
+ * Bill Nicholson
+ * nicholdw@ucmail.uc.edu
+ */
 package demo;
 
 public class SuperClass {
@@ -15,5 +22,4 @@ public class SuperClass {
 	public void setSuperClassProperty(int superClassProperty) {
 		this.superClassProperty = superClassProperty;
 	}
-	
 }

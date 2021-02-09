@@ -1,3 +1,9 @@
+/*
+ * Substitution Principle
+ * A derived class object can be assigned to a base class object
+ * Bill Nicholson
+ * nicholdw@ucmail.uc.edu
+ */
 package demo;
 
 public class Main {
